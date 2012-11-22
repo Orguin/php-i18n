@@ -1,0 +1,25 @@
+{
+    "name": "orguin/php-i18n",
+	"description": "PHP Internationalization",
+    "keywords": ["internationalization","i18n"],
+    "homepage": "https://github.com/Orguin/php-i18n",
+    "version": "0.0.1-dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Fiuza",
+            "email": "guilherme@orguin.com.br",
+            "homepage": "http://blog.orguin.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "guilherme@orguin.com.br"
+    },
+    "require": {
+		"php": ">=5.3.0"
+    },
+	"autoload": {
+        "classmap": ["lib/i18n.class.php"]
+    }
+}
