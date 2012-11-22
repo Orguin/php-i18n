@@ -1,0 +1,8 @@
+# ignore eclipse project files
+.project
+.settings
+.buildpath
+
+# ignore language cache too
+langcache/*
+!langcache/README.md
