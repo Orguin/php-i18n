@@ -5,7 +5,7 @@
     "homepage": "https://github.com/Orguin/php-i18n",
     "version": "0.0.1-dev",
     "license": "MIT",
-	"type": "library",
+    "type": "library",
     "authors": [
         {
             "name": "Guilherme Fiuza",
